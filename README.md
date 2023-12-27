@@ -26,7 +26,7 @@ This is a Python application that allows users to track the price of a product a
 1. Run the application:
 
   ```shell
-  python app.py
+  python run.py
   ```
 
 2. Access the application in your web browser at http://localhost:5000.
